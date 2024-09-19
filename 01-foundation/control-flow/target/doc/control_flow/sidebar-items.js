@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["for_bucle","if_else","loop_bucle","loop_labels","main","while_bucle"]};
